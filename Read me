@@ -1,0 +1,14 @@
+https://sentinel.esa.int/web/sentinel/home
+
+
+please find the python jupyter notebooks to autodownload the sentinel data using the user credentials. 
+
+how to use?
+
+go to respective notebook for sentinel 1 or 2 data
+edit the username and password
+edit the .shp file/ geojson data to indicate the region of interest.
+give the starting and ending date
+download and enjoy.....
+
+credits to sentinel api:)
